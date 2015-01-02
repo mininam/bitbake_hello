@@ -2,6 +2,8 @@
 bitbake hello test
 
 1. It failed in bitbake 1.25 but works fine in bitbake v1.18
+2. $bitbake hello -vDD
+
 
 
 
